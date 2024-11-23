@@ -1,0 +1,8 @@
+image GreenKey 0 50
+
+state IDLE NONE 0
+frameset 0 47 0.09 0 0 0 NONE
+frame 48 0.09 0 0 0 NONE
+frame 49 0.09 0 0 0 READY
+
+
