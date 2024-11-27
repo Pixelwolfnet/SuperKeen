@@ -1,0 +1,8 @@
+//Player Logic
+player sethp 1
+
+global.PlayerLives=3
+global.PlayerHp=1
+global.AmmoCount=0
+
+map goto 1

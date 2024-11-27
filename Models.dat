@@ -10,3 +10,10 @@ YellowKey YellowKey 0 0 0 0 0 1 1 1 1 500 1 0 0 0 0 1 0 0 .md3 0
 RedKey RedKey 0 0 0 0 0 1 1 1 1 500 1 0 0 0 0 1 0 0 .md3 0
 GreenKey GreenKey 0 0 0 0 0 1 1 1 1 500 1 0 0 0 0 1 0 0 .md3 0
 BlueKey BlueKey 0 0 0 0 0 1 1 1 1 500 1 0 0 0 0 1 0 0 .md3 0
+Raygun Raygun 0 0 0 0 0 1 1 1 1 500 1 0 0 0 0 1 0 0 .md3 0
+KeenBlasterProjectile0 KeenBlasterProjectile0 0 0 0 0 0 1 1 1 1 500 1 0 0 0 0 1 0 0 .md3 0
+RoundPlatformBlue RoundPlatformBlue 0 0 0 0 0 1 1 1 1 500 1 0 1 0 0 1 0 0 .fbx 0
+RoundPlatformGreen RoundPlatformGreen 0 0 0 0 0 1 1 1 1 500 1 0 1 0 0 1 0 0 .fbx 0
+RoundPlatformPink RoundPlatformPink 0 0 0 0 0 1 1 1 1 500 1 0 1 0 0 1 0 0 .fbx 0
+RoundPlatformRed RoundPlatformRed 0 0 0 0 0 1 1 1 1 500 1 1 1 0 0 1 0 0 .fbx 0
+RoundPlatformYellow RoundPlatformYellow 0 0 0 0 0 1 1 1 1 500 1 0 1 0 0 1 0 0 .fbx 0

@@ -1,0 +1,15 @@
+//Player Logic
+player check ammo 1 global.AmmoCount
+player check hp global.PlayerHp
+
+//if $global.PlayerHp != 1 {
+//global.PlayerLives--
+//map goto 1
+//}
+
+//HUD Logic
+hud image KeenHUD 0.01 0.85 3 HUD/KeenHUD.png 1
+hud image PLL 0.075 0.925 1.7 HUD/PL$global.PlayerLives.png 2
+hud image PLR 0.055 0.925 1.7 HUD/PL0.png 3
+hud image ACL 0.17 0.925 1.7 HUD/AC$global.AmmoCount.png 4
+hud image ACR 0.15 0.925 1.7 HUD/AC0.png 5

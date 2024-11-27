@@ -1,0 +1,9 @@
+give weapon 1
+give ammo 1 5
+global.AmmoCount++
+global.AmmoCount++
+global.AmmoCount++
+global.AmmoCount++
+global.AmmoCount++
+entity delete me
+map return
