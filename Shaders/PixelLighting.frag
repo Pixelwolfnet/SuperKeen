@@ -13,6 +13,7 @@ uniform vec2 resolution;
 uniform float usesNormalMap;
 uniform float normalFlip;
 uniform float usesEmissiveMap;
+uniform float vertexLighting;
 
 void main()
 {
@@ -92,7 +93,11 @@ void main()
 				};
 			};
 		};
-	};
+	}
+	
+	vec4 finalColorClamp = gl_Color * 20;
+	finalColorClamp = clamp(finalColorClamp,0,DIFFUSE_MULTIPLYER);
+	finalColor += finalColorClamp * vertexLighting;
 	
 	finalColor.a = 1;
 	vec4 fogColor = gl_Fog.color;
